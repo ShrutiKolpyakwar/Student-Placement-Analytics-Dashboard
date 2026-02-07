@@ -21,3 +21,12 @@ Files :
 1. Placement_Dashboard.pbix → main dashboard
 2. student_placement_data.xlsx → dataset
 3. Pivots.xlsx → Excel analysis
+
+## Dashboard Preview
+![Dashboard Screenshot](power_bi_dashboard.png)
+
+
+## Excel Analysis Preview
+![Excel Analysis](excel_analysis.png)
+![Excel Analysis](excel_analysis_2.png)
+
