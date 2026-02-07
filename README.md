@@ -3,8 +3,8 @@ Project: Student Placement Analytics Dashboard
 This project analyzes student placement data using Power BI and Excel.
 
 Tools Used
-Power BI
-DAX
+Power BI ,
+DAX ,
 Excel
 
 Key Features : 
